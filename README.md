@@ -16,39 +16,39 @@
 
 还能添加表情来代表你的心情
 
-<img src="./img/im1.png" height="400" />
+<img src="./img/img1.png" height="400px" />
 
 ### 学习功能
 
 输入了 `pornhub` 作为你的代表事项，试试点击它吧
 
-<img src="./img/im1.png" height="400" />
+<img src="./img/img2.png" height="400" />
 
 ### 下载学习资料
 
 进入学习视频的详情页，页面下方即会显示下载按钮
 
-<img src="./img/im1.png" height="400" />
+<img src="./img/img3.png" height="400" />
 
 ### 选择清晰度
 
-<img src="./img/im1.png" height="400" />
+<img src="./img/img4.png" height="400" />
 
 ### 缓存列表
 
 长按可删除噢
 
-<img src="./img/im1.png" height="400" />
+<img src="./img/img5.png" height="400" />
 
 ### 播放学习视频
 
-<img src="./img/im1.png" height="400" />
+<img src="./img/img6.png" height="400" />
 
 ### 完成今日待办
 
 别忘了左滑删除不想要的待办
 
-<img src="./img/im1.png" height="400" />
+<img src="./img/img7.png" height="400" />
 
 ### 常见问题
 
