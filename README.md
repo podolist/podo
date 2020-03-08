@@ -8,7 +8,7 @@
 
 ### 如果你对这张图片感兴趣，这款软件就一定适合你
 
-### ![error](./img/img0.png)
+<img src="./img/img0.png" />
 
 ---
 
@@ -16,39 +16,39 @@
 
 还能添加表情来代表你的心情
 
-### ![error](./img/img1.png)
+<img src="./img/im1.png" height="400" />
 
 ### 学习功能
 
 输入了 `pornhub` 作为你的代表事项，试试点击它吧
 
-### ![error](./img/img2.png)
+<img src="./img/im1.png" height="400" />
 
 ### 下载学习资料
 
 进入学习视频的详情页，页面下方即会显示下载按钮
 
-### ![error](./img/img3.png)
+<img src="./img/im1.png" height="400" />
 
 ### 选择清晰度
 
-### ![error](./img/img4.png)
+<img src="./img/im1.png" height="400" />
 
 ### 缓存列表
 
 长按可删除噢
 
-### ![error](./img/img5.png)
+<img src="./img/im1.png" height="400" />
 
 ### 播放学习视频
 
-### ![error](./img/img6.png)
+<img src="./img/im1.png" height="400" />
 
 ### 完成今日待办
 
 别忘了左滑删除不想要的待办
 
-### ![error](./img/img7.png)
+<img src="./img/im1.png" height="400" />
 
 ### 常见问题
 
